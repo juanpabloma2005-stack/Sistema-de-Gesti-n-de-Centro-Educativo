@@ -1,0 +1,10 @@
+Matematicas | Miguel Hernandez | Aula 101 | Lunes 6:00pm | Juan Perez,Maria Gomez
+Estudios Sociales | Joaquin Morera | Aula 102 | Martes 1:00pm | Carlos Ruiz,Ana Torres
+Ingles | Jorge Rodriguez | Aula 103 | Miercoles 8:00am | Laura Diaz, Kendall Gomez
+Espanol | Lucia Lopez | Aula 104 | Jueves 8:00am | Ricardo Munos, Alex Aragón
+Informatica | Carlos Garcia | Aula 105 | Viernes 9:00am | Lorena Munguia, Pablo Murillo
+Ciencias | Brayan Rodriguez | Aula 106 | Lunes 11:00am | Juan Perez, Maria Gomez
+Religion | Dahiana Lopez | Aula 107 | Martes 12:00pm | Carlos Ruiz, Ana Torres
+Orientacion | Hugo Garcia | Aula 108 | Miercoles 3:00pm | Laura Diaz, Kendall Gomez
+Musica | Jennifer Murillo | Aula 109 | Jueves 12:00pm | Ricardo Munos, Alex Aragon
+mste | hugo garcia | aula 11 | lunes 6:00pm | pablo murillo

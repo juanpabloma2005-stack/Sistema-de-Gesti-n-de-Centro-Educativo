@@ -1,0 +1,18 @@
+Matematicas | Juan Perez | 25.00 | 20.00 | 15.00 | 10.00
+Matematicas | Maria Gomez | 25.00 | 05.00 | 25.00 | 25.00
+Estudios Sociales | Carlos Ruiz | 20.00 | 15.00 | 05.00 | 25.00
+Estudios Sociales | Ana Torres | 22.00 | 20.00 | 15.00 | 08.00
+Ingles | Laura Diaz | 14.00 | 15.00 | 16.00 | 25.00
+Ingles | Kendall Gomez | 25.00 | 10.00 | 15.00 | 20.00
+Espanol | Ricardo Munos | 04.00 | 25.00 | 25.00 | 25.00
+Espanol | Alex Aragon | 16.00 | 12.00 | 14.00 | 18.00
+Informatica | Lorena Munguia | 15.00 | 25.00 | 12.00 | 19.00
+Informatica | Pablo Murillo | 25.00 | 20.00 | 18.00 | 17.00
+Ciencias | Juan Perez | 20.00 | 20.00 | 20.00 | 20.00
+Ciencias | Maria Gomez | 15.00 | 15.00 | 15.00 | 15.00
+Religion | Carlos Ruiz | 00.00 | 00.00 | 00.00 | 00.00
+Religion | Ana Torres | 25.00 | 09.00 | 25.00 | 25.00
+Orientacion| Laura Diaz | 24.00 | 23.00 | 22.00 | 21.00
+Orientacion | Kendall Gomez | 14.00 | 08.00 | 25.00 | 09.00
+Musica | Ricardo Munos | 23.00 | 20.00 | 15.00 | 15.00
+Musica | Alex Aragon | 25.00 | 25.00 | 25.00 | 25.00hvghgvh
